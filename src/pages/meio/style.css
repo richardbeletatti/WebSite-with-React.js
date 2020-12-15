@@ -1,0 +1,31 @@
+.slide-edited-7 {
+    height: 550px;
+
+    width: 100%;
+    max-width: 650px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(255, 0, 127);
+    
+    justify-content: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.text-tabelaMeio {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.tabelaMeio {
+    width: 100%;
+}

@@ -1,0 +1,79 @@
+.slide-edited-3 {
+    height: 700px;
+
+    width: 100%;
+    max-width: 650px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(255, 0, 127);
+    
+    justify-content: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.tittle-fifth h1{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 0;
+    padding-top: 16px;
+    font-size: 20px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.tittle-fifth p {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.text-seveth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 30px;
+}
+
+.tittle-fifth a {
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid rgb(64,224 ,208);
+    background: none;
+    margin-top: 2px;
+    color: rgb(64,224 ,208);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+ 
+    display: flex;
+    top: 40px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.tittle-fifth a:hover {
+    background: rgb(64,224 ,208);
+    color: black;
+}
+
+.tabela {
+    width: 300px;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+

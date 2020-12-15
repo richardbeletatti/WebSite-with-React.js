@@ -1,0 +1,84 @@
+.slide-edited-2 {
+    height: 750px;
+
+    width: 100%;
+    max-width: 650px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(255, 0, 127);
+    
+    justify-content: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.tittle-fourth h1 {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 0;
+    padding-top: 16px;
+    font-size: 20px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.tittle-fourth p {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.text-fourth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 30px;
+}
+
+.text-fifth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 50px;
+}
+
+.text-sixth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 70px;
+}
+
+.tittle-fourth a {
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid rgb(64,224 ,208);
+    background: none;
+    margin-top: 2px;
+    color: rgb(64,224 ,208);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+ 
+    display: flex;
+    top: 150px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.tittle-fourth a:hover {
+    background: rgb(64,224 ,208);
+    color: black;
+}

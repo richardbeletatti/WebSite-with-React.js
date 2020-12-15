@@ -1,0 +1,34 @@
+header#main-header {
+    width: 100%;
+    max-width: 2360px;
+
+    background-color: rgb(255, 0, 127);
+    font-size: 25px;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+    flex-direction: initial;
+}
+
+.whatss {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+    width: 60px;
+}
+
+.instagram {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+    width: 60px;
+}

@@ -1,0 +1,33 @@
+
+
+.slide-edited-8 {
+    height: 600px;
+
+    width: 100%;
+    max-width: 650px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(255, 0, 127);
+    
+    justify-content: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.text-tabelaFundo {
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.tabelaBaixo {
+    position: relative;
+    bottom: 5px;
+    width: 100%;
+}

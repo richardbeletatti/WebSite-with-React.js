@@ -1,0 +1,80 @@
+.slide-edited-4 {
+    height: 780px;
+    width: 100%;
+    max-width: 560px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(255, 0, 127);
+    
+    justify-content: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.tittle-sixth h1{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 0;
+    padding-top: 16px;
+    font-size: 20px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.tittle-sixth p {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.text-seventh {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 30px;
+}
+
+.text-eighth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 60px;
+}
+
+.text-nineth {
+    border: solid #daa520;
+    font-weight: normal;
+    position: relative;
+    top: 90px;
+}
+
+.tittle-sixth a {    
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid rgb(64,224 ,208);
+    background: none;
+    color: rgb(64,224 ,208);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+ 
+    display: flex;
+    position: relative;
+    top: 120px;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.tittle-sixth a:hover {
+    background: rgb(64,224 ,208);
+    color: black;
+}

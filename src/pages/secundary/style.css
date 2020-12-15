@@ -1,0 +1,43 @@
+.tittle-secudary h1{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 0;
+    padding-top: 16px;
+    font-size: 20px;
+    line-height: 1.3333;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.mulherPensativa {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.tittle-secudary a {    
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid rgb(64,224 ,208);
+    background: none;
+    color: rgb(64,224 ,208);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.tittle-secudary a:hover {
+    background: rgb(64,224 ,208);
+    color: black;
+}
+
+.color {
+    color: rgb(64,224 ,208);
+}
+
